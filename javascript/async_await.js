@@ -1,0 +1,7 @@
+const fetchData=()=>{
+    return setTimeout
+
+
+
+    });
+}

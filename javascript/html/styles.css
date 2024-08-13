@@ -1,0 +1,56 @@
+body {
+    font-family: 'algerian', serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+header {
+    background-color: #1a49ad;
+    color: rgb(7, 223, 89);
+    padding: 1em 0;
+    text-align: center;
+img {
+    height: 200px;
+    width: 200px;
+   
+}
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(249, 243, 252);
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+}
+
+section h2 {
+    border-bottom: 2px solid #4a085a;
+    padding-bottom: 0.5em;
+}
+
+.project {
+    margin-bottom: 1.5em;
+    color: firebrick;
+}
+
+footer {
+    background-color: #a00aa0;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    bottom: 0;
+    width: 100%;
+}
